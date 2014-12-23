@@ -1,0 +1,21 @@
+{
+	"name": "neha/neha",
+	"description": "Nice Error Handling for php",
+	"keywords": ["php", "neha", "error", "handler"],
+	"license": "MIT",
+	"autorhs": [
+		{
+			"name": "Alvaro Carneiro",
+			"email": "alv.ccbb@gmail.com"
+		}
+	],
+	"require": {
+		"php": ">=5.4.0"
+	},
+	"autoload": {
+		"psr-0": {
+			"Neha": ""
+		}
+	},
+	"minimum-stability": "dev"
+}

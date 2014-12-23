@@ -1,0 +1,18 @@
+# Neha
+
+Nice Error Handling for php
+
+## License
+
+MIT license
+
+### Instalation
+
+Install it using [composer](https://packagist.org/packages/neha/neha) `composer create neha/neha`
+
+Or just download it, it's only one file
+
+##### There are some pretty examples in the source code so look at it
+
+Pull requests are very welcome, love to learn something from others
+
